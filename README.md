@@ -1,3 +1,9 @@
+To start, you'll need python.
+
+execute:
+
+`py app.py`
+
 Routes: 
 
 ---
